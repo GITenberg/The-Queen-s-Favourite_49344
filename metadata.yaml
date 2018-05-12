@@ -1,10 +1,16 @@
 _repo: The-Queen-s-Favourite_49344
+_version: 0.1.0
 contributor:
   adapter:
     agent_name: Pollard, Eliza
     gutenberg_agent_id: '45454'
     url: http://www.gutenberg.org/2009/agents/45454
+covers:
+- cover_type: archival
+  image_path: 49344-rst/images/img-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49344#The-Queen-s-Favourite
 gutenberg_issued: '2015-07-02'
 gutenberg_type: Text
 identifiers:
